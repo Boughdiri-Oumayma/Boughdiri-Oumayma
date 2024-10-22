@@ -7,10 +7,10 @@ With a passion for crafting innovative web and mobile applications, I thrive on 
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oumayma boughdiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumayma boughdiri" height="30" width="30" /></a>
-<a href="mailto:oumayma.boughdiri23@gmail.com" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="30" width="30" />
-</a>
+<a href="https://linkedin.com/in/oumayma boughdiri" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumayma boughdiri" height="30" width="30" /></a>
+    &nbsp;&nbsp;&nbsp; <!-- Adding 3 non-breaking spaces here -->
+<a href="mailto:oumayma.boughdiri23@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
