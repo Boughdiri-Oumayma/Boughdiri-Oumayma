@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Oumayma Boughdiri</h1>
+<h3 align="center">💻 Enthusiastic FullStack Developer</h3>
 
-<!--
-**Boughdiri-Oumayma/Boughdiri-Oumayma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">  💫 About me:</h3>
 
-Here are some ideas to get you started:
+With a passion for crafting innovative web and mobile applications, I thrive on building scalable, high-performance solutions using the latest technologies.<br><br>🚀 Constantly driven by curiosity, I embrace complex challenges and love finding efficient ways to solve them.<br>📚 Dedicated to continuous learning, I’m always on the lookout for new tools and practices to enhance my expertise.<br>🤝 Teamwork and collaboration are my key drivers in delivering impactful, user-centered projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left"> 🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oumayma boughdiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumayma boughdiri" height="30" width="30" /></a>
+<a href="mailto:oumayma.boughdiri23@gmail.com" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="30" width="30" />
+</a>
+</p>
+
+<h3 align="left"> 🛠 Languages and Tools:</h3>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
